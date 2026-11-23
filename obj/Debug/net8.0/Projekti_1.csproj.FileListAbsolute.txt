@@ -1,0 +1,14 @@
+C:\Users\Eetu\amk\OneDrive - Centria ammattikorkeakoulu Oy\Ohjelmoinnin perusteet\Projekti_1\bin\Debug\net8.0\Projekti_1.exe
+C:\Users\Eetu\amk\OneDrive - Centria ammattikorkeakoulu Oy\Ohjelmoinnin perusteet\Projekti_1\bin\Debug\net8.0\Projekti_1.deps.json
+C:\Users\Eetu\amk\OneDrive - Centria ammattikorkeakoulu Oy\Ohjelmoinnin perusteet\Projekti_1\bin\Debug\net8.0\Projekti_1.runtimeconfig.json
+C:\Users\Eetu\amk\OneDrive - Centria ammattikorkeakoulu Oy\Ohjelmoinnin perusteet\Projekti_1\bin\Debug\net8.0\Projekti_1.dll
+C:\Users\Eetu\amk\OneDrive - Centria ammattikorkeakoulu Oy\Ohjelmoinnin perusteet\Projekti_1\bin\Debug\net8.0\Projekti_1.pdb
+C:\Users\Eetu\amk\OneDrive - Centria ammattikorkeakoulu Oy\Ohjelmoinnin perusteet\Projekti_1\obj\Debug\net8.0\Projekti_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eetu\amk\OneDrive - Centria ammattikorkeakoulu Oy\Ohjelmoinnin perusteet\Projekti_1\obj\Debug\net8.0\Projekti_1.AssemblyInfoInputs.cache
+C:\Users\Eetu\amk\OneDrive - Centria ammattikorkeakoulu Oy\Ohjelmoinnin perusteet\Projekti_1\obj\Debug\net8.0\Projekti_1.AssemblyInfo.cs
+C:\Users\Eetu\amk\OneDrive - Centria ammattikorkeakoulu Oy\Ohjelmoinnin perusteet\Projekti_1\obj\Debug\net8.0\Projekti_1.csproj.CoreCompileInputs.cache
+C:\Users\Eetu\amk\OneDrive - Centria ammattikorkeakoulu Oy\Ohjelmoinnin perusteet\Projekti_1\obj\Debug\net8.0\Projekti_1.dll
+C:\Users\Eetu\amk\OneDrive - Centria ammattikorkeakoulu Oy\Ohjelmoinnin perusteet\Projekti_1\obj\Debug\net8.0\refint\Projekti_1.dll
+C:\Users\Eetu\amk\OneDrive - Centria ammattikorkeakoulu Oy\Ohjelmoinnin perusteet\Projekti_1\obj\Debug\net8.0\Projekti_1.pdb
+C:\Users\Eetu\amk\OneDrive - Centria ammattikorkeakoulu Oy\Ohjelmoinnin perusteet\Projekti_1\obj\Debug\net8.0\Projekti_1.genruntimeconfig.cache
+C:\Users\Eetu\amk\OneDrive - Centria ammattikorkeakoulu Oy\Ohjelmoinnin perusteet\Projekti_1\obj\Debug\net8.0\ref\Projekti_1.dll
